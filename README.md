@@ -1,2 +1,4 @@
 # deductive-mastermind-solver
-Deductive Mastermind Solver
+A project for the Reasoning classes on my unisversity. It's an implementation of Analytic Tableaux Model for Deductive Mastermind proposed in Gierasimczuk, Nina & Maas, Han & Raijmakers, Maartje. (2013). An Analytic Tableaux Model for Deductive Mastermind Empirically Tested with a Massively Used Online Learning System. Journal of Logic, Language and Information. 22. 297-314. 10.1007/s10849-013-9177-5. link: https://www.researchgate.net/publication/262291675_An_Analytic_Tableaux_Model_for_Deductive_Mastermind_Empirically_Tested_with_a_Massively_Used_Online_Learning_System
+ 
+To generate a deductive mastermind game scenarios with a possible combinations to solve them one can just run main.py with run_game function called in it with arguments corresponding to number of pins one wants the game scenario to have, number of colors and number of turns respectively.  
